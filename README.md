@@ -1,1 +1,1 @@
-<img src="Image/ALU_block.png" width="600" >  
+<img src="Image/result.png" width="600" >  
