@@ -69,5 +69,5 @@ Sau khi xác định được giá trị ban đầu để tính key là C0 và D
 
 <img src="Image/IP_inv.png" width="600" >  
 
-## Design specification: 
+## Design specification: ( continue...)
 <img src="Image/result.png" width="1000" >  
